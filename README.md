@@ -1,0 +1,1 @@
+Pour ce projet, nous avons utilisé un servo-moteur, qui permet de réduire la pression de l'eau. Il est actionné grâce à 3 boutons poussoirs. Un dernier bouton-poussoir permet d'activer la vanne. Avec des leds qui indiquent chaque état. Et enfin nous avons un capteur de débit. Et voici le code de tout ceci.
